@@ -1,0 +1,1612 @@
+Datetime,Symbol,Buy Price,Sell Price,Profit
+"Ticker
+    2025-04-17 13:44:00+00:00
+Name: 1, dtype: object",AAPL,"Ticker
+AAPL    194.880005
+Name: 0, dtype: object","Ticker
+AAPL    194.940994
+Name: 1, dtype: object","Ticker
+AAPL    0.060989
+dtype: object"
+"Ticker
+    2025-04-17 13:47:00+00:00
+Name: 4, dtype: object",AAPL,"Ticker
+AAPL    194.769302
+Name: 3, dtype: object","Ticker
+AAPL    194.869995
+Name: 4, dtype: object","Ticker
+AAPL    0.100693
+dtype: object"
+"Ticker
+    2025-04-17 13:48:00+00:00
+Name: 5, dtype: object",AAPL,"Ticker
+AAPL    194.869995
+Name: 4, dtype: object","Ticker
+AAPL    194.875
+Name: 5, dtype: object","Ticker
+AAPL    0.005005
+dtype: object"
+"Ticker
+    2025-04-17 13:49:00+00:00
+Name: 6, dtype: object",AAPL,"Ticker
+AAPL    194.875
+Name: 5, dtype: object","Ticker
+AAPL    195.110001
+Name: 6, dtype: object","Ticker
+AAPL    0.235001
+dtype: object"
+"Ticker
+    2025-04-17 13:50:00+00:00
+Name: 7, dtype: object",AAPL,"Ticker
+AAPL    195.110001
+Name: 6, dtype: object","Ticker
+AAPL    195.690002
+Name: 7, dtype: object","Ticker
+AAPL    0.580002
+dtype: object"
+"Ticker
+    2025-04-17 13:51:00+00:00
+Name: 8, dtype: object",AAPL,"Ticker
+AAPL    195.690002
+Name: 7, dtype: object","Ticker
+AAPL    195.729996
+Name: 8, dtype: object","Ticker
+AAPL    0.039993
+dtype: object"
+"Ticker
+    2025-04-17 13:52:00+00:00
+Name: 9, dtype: object",AAPL,"Ticker
+AAPL    195.729996
+Name: 8, dtype: object","Ticker
+AAPL    195.960007
+Name: 9, dtype: object","Ticker
+AAPL    0.230011
+dtype: object"
+"Ticker
+    2025-04-17 13:54:00+00:00
+Name: 11, dtype: object",AAPL,"Ticker
+AAPL    195.850006
+Name: 10, dtype: object","Ticker
+AAPL    196.049896
+Name: 11, dtype: object","Ticker
+AAPL    0.19989
+dtype: object"
+"Ticker
+    2025-04-17 13:58:00+00:00
+Name: 15, dtype: object",AAPL,"Ticker
+AAPL    195.729996
+Name: 14, dtype: object","Ticker
+AAPL    195.800003
+Name: 15, dtype: object","Ticker
+AAPL    0.070007
+dtype: object"
+"Ticker
+    2025-04-17 13:59:00+00:00
+Name: 16, dtype: object",AAPL,"Ticker
+AAPL    195.800003
+Name: 15, dtype: object","Ticker
+AAPL    196.059998
+Name: 16, dtype: object","Ticker
+AAPL    0.259995
+dtype: object"
+"Ticker
+    2025-04-17 14:01:00+00:00
+Name: 18, dtype: object",AAPL,"Ticker
+AAPL    196.039993
+Name: 17, dtype: object","Ticker
+AAPL    196.300003
+Name: 18, dtype: object","Ticker
+AAPL    0.26001
+dtype: object"
+"Ticker
+    2025-04-17 14:04:00+00:00
+Name: 21, dtype: object",AAPL,"Ticker
+AAPL    196.029999
+Name: 20, dtype: object","Ticker
+AAPL    196.182999
+Name: 21, dtype: object","Ticker
+AAPL    0.153
+dtype: object"
+"Ticker
+    2025-04-17 14:05:00+00:00
+Name: 22, dtype: object",AAPL,"Ticker
+AAPL    196.182999
+Name: 21, dtype: object","Ticker
+AAPL    196.289993
+Name: 22, dtype: object","Ticker
+AAPL    0.106995
+dtype: object"
+"Ticker
+    2025-04-17 14:09:00+00:00
+Name: 26, dtype: object",AAPL,"Ticker
+AAPL    195.740005
+Name: 25, dtype: object","Ticker
+AAPL    195.827805
+Name: 26, dtype: object","Ticker
+AAPL    0.087799
+dtype: object"
+"Ticker
+    2025-04-17 14:11:00+00:00
+Name: 28, dtype: object",AAPL,"Ticker
+AAPL    195.809998
+Name: 27, dtype: object","Ticker
+AAPL    195.960007
+Name: 28, dtype: object","Ticker
+AAPL    0.150009
+dtype: object"
+"Ticker
+    2025-04-17 14:12:00+00:00
+Name: 29, dtype: object",AAPL,"Ticker
+AAPL    195.960007
+Name: 28, dtype: object","Ticker
+AAPL    196.279999
+Name: 29, dtype: object","Ticker
+AAPL    0.319992
+dtype: object"
+"Ticker
+    2025-04-17 14:15:00+00:00
+Name: 32, dtype: object",AAPL,"Ticker
+AAPL    195.869995
+Name: 31, dtype: object","Ticker
+AAPL    195.929993
+Name: 32, dtype: object","Ticker
+AAPL    0.059998
+dtype: object"
+"Ticker
+    2025-04-17 14:17:00+00:00
+Name: 34, dtype: object",AAPL,"Ticker
+AAPL    195.737503
+Name: 33, dtype: object","Ticker
+AAPL    195.940002
+Name: 34, dtype: object","Ticker
+AAPL    0.202499
+dtype: object"
+"Ticker
+    2025-04-17 14:19:00+00:00
+Name: 36, dtype: object",AAPL,"Ticker
+AAPL    195.820007
+Name: 35, dtype: object","Ticker
+AAPL    196.029999
+Name: 36, dtype: object","Ticker
+AAPL    0.209991
+dtype: object"
+"Ticker
+    2025-04-17 14:21:00+00:00
+Name: 38, dtype: object",AAPL,"Ticker
+AAPL    195.690201
+Name: 37, dtype: object","Ticker
+AAPL    195.75
+Name: 38, dtype: object","Ticker
+AAPL    0.059799
+dtype: object"
+"Ticker
+    2025-04-17 14:22:00+00:00
+Name: 39, dtype: object",AAPL,"Ticker
+AAPL    195.75
+Name: 38, dtype: object","Ticker
+AAPL    196.009995
+Name: 39, dtype: object","Ticker
+AAPL    0.259995
+dtype: object"
+"Ticker
+    2025-04-17 14:23:00+00:00
+Name: 40, dtype: object",AAPL,"Ticker
+AAPL    196.009995
+Name: 39, dtype: object","Ticker
+AAPL    196.050507
+Name: 40, dtype: object","Ticker
+AAPL    0.040512
+dtype: object"
+"Ticker
+    2025-04-17 14:25:00+00:00
+Name: 42, dtype: object",AAPL,"Ticker
+AAPL    195.899994
+Name: 41, dtype: object","Ticker
+AAPL    196.048904
+Name: 42, dtype: object","Ticker
+AAPL    0.148911
+dtype: object"
+"Ticker
+    2025-04-17 14:26:00+00:00
+Name: 43, dtype: object",AAPL,"Ticker
+AAPL    196.048904
+Name: 42, dtype: object","Ticker
+AAPL    196.220001
+Name: 43, dtype: object","Ticker
+AAPL    0.171097
+dtype: object"
+"Ticker
+    2025-04-17 14:31:00+00:00
+Name: 48, dtype: object",AAPL,"Ticker
+AAPL    194.690002
+Name: 47, dtype: object","Ticker
+AAPL    195.2901
+Name: 48, dtype: object","Ticker
+AAPL    0.600098
+dtype: object"
+"Ticker
+    2025-04-17 14:32:00+00:00
+Name: 49, dtype: object",AAPL,"Ticker
+AAPL    195.2901
+Name: 48, dtype: object","Ticker
+AAPL    196.059998
+Name: 49, dtype: object","Ticker
+AAPL    0.769897
+dtype: object"
+"Ticker
+    2025-04-17 14:33:00+00:00
+Name: 50, dtype: object",AAPL,"Ticker
+AAPL    196.059998
+Name: 49, dtype: object","Ticker
+AAPL    196.2435
+Name: 50, dtype: object","Ticker
+AAPL    0.183502
+dtype: object"
+"Ticker
+    2025-04-17 14:34:00+00:00
+Name: 51, dtype: object",AAPL,"Ticker
+AAPL    196.2435
+Name: 50, dtype: object","Ticker
+AAPL    196.360001
+Name: 51, dtype: object","Ticker
+AAPL    0.116501
+dtype: object"
+"Ticker
+    2025-04-17 14:39:00+00:00
+Name: 56, dtype: object",AAPL,"Ticker
+AAPL    195.899994
+Name: 55, dtype: object","Ticker
+AAPL    196.229996
+Name: 56, dtype: object","Ticker
+AAPL    0.330002
+dtype: object"
+"Ticker
+    2025-04-17 14:40:00+00:00
+Name: 57, dtype: object",AAPL,"Ticker
+AAPL    196.229996
+Name: 56, dtype: object","Ticker
+AAPL    196.789993
+Name: 57, dtype: object","Ticker
+AAPL    0.559998
+dtype: object"
+"Ticker
+    2025-04-17 14:42:00+00:00
+Name: 59, dtype: object",AAPL,"Ticker
+AAPL    196.779999
+Name: 58, dtype: object","Ticker
+AAPL    196.919998
+Name: 59, dtype: object","Ticker
+AAPL    0.139999
+dtype: object"
+"Ticker
+    2025-04-17 14:50:00+00:00
+Name: 67, dtype: object",AAPL,"Ticker
+AAPL    196.274994
+Name: 66, dtype: object","Ticker
+AAPL    196.309998
+Name: 67, dtype: object","Ticker
+AAPL    0.035004
+dtype: object"
+"Ticker
+    2025-04-17 14:53:00+00:00
+Name: 70, dtype: object",AAPL,"Ticker
+AAPL    195.801498
+Name: 69, dtype: object","Ticker
+AAPL    195.889999
+Name: 70, dtype: object","Ticker
+AAPL    0.088501
+dtype: object"
+"Ticker
+    2025-04-17 14:54:00+00:00
+Name: 71, dtype: object",AAPL,"Ticker
+AAPL    195.889999
+Name: 70, dtype: object","Ticker
+AAPL    196.005005
+Name: 71, dtype: object","Ticker
+AAPL    0.115005
+dtype: object"
+"Ticker
+    2025-04-17 14:57:00+00:00
+Name: 74, dtype: object",AAPL,"Ticker
+AAPL    195.860001
+Name: 73, dtype: object","Ticker
+AAPL    195.932693
+Name: 74, dtype: object","Ticker
+AAPL    0.072693
+dtype: object"
+"Ticker
+    2025-04-17 14:58:00+00:00
+Name: 75, dtype: object",AAPL,"Ticker
+AAPL    195.932693
+Name: 74, dtype: object","Ticker
+AAPL    195.961197
+Name: 75, dtype: object","Ticker
+AAPL    0.028503
+dtype: object"
+"Ticker
+    2025-04-17 15:00:00+00:00
+Name: 77, dtype: object",AAPL,"Ticker
+AAPL    195.782593
+Name: 76, dtype: object","Ticker
+AAPL    195.910004
+Name: 77, dtype: object","Ticker
+AAPL    0.127411
+dtype: object"
+"Ticker
+    2025-04-17 15:05:00+00:00
+Name: 82, dtype: object",AAPL,"Ticker
+AAPL    195.559998
+Name: 81, dtype: object","Ticker
+AAPL    195.639999
+Name: 82, dtype: object","Ticker
+AAPL    0.080002
+dtype: object"
+"Ticker
+    2025-04-17 15:06:00+00:00
+Name: 83, dtype: object",AAPL,"Ticker
+AAPL    195.639999
+Name: 82, dtype: object","Ticker
+AAPL    196.490005
+Name: 83, dtype: object","Ticker
+AAPL    0.850006
+dtype: object"
+"Ticker
+    2025-04-17 15:08:00+00:00
+Name: 85, dtype: object",AAPL,"Ticker
+AAPL    196.270004
+Name: 84, dtype: object","Ticker
+AAPL    196.5
+Name: 85, dtype: object","Ticker
+AAPL    0.229996
+dtype: object"
+"Ticker
+    2025-04-17 15:10:00+00:00
+Name: 87, dtype: object",AAPL,"Ticker
+AAPL    196.309998
+Name: 86, dtype: object","Ticker
+AAPL    196.460007
+Name: 87, dtype: object","Ticker
+AAPL    0.150009
+dtype: object"
+"Ticker
+    2025-04-17 15:11:00+00:00
+Name: 88, dtype: object",AAPL,"Ticker
+AAPL    196.460007
+Name: 87, dtype: object","Ticker
+AAPL    196.586594
+Name: 88, dtype: object","Ticker
+AAPL    0.126587
+dtype: object"
+"Ticker
+    2025-04-17 15:12:00+00:00
+Name: 89, dtype: object",AAPL,"Ticker
+AAPL    196.586594
+Name: 88, dtype: object","Ticker
+AAPL    196.758698
+Name: 89, dtype: object","Ticker
+AAPL    0.172104
+dtype: object"
+"Ticker
+    2025-04-17 15:13:00+00:00
+Name: 90, dtype: object",AAPL,"Ticker
+AAPL    196.758698
+Name: 89, dtype: object","Ticker
+AAPL    196.799301
+Name: 90, dtype: object","Ticker
+AAPL    0.040604
+dtype: object"
+"Ticker
+    2025-04-17 15:14:00+00:00
+Name: 91, dtype: object",AAPL,"Ticker
+AAPL    196.799301
+Name: 90, dtype: object","Ticker
+AAPL    196.884995
+Name: 91, dtype: object","Ticker
+AAPL    0.085693
+dtype: object"
+"Ticker
+    2025-04-17 15:17:00+00:00
+Name: 94, dtype: object",AAPL,"Ticker
+AAPL    196.419998
+Name: 93, dtype: object","Ticker
+AAPL    196.748596
+Name: 94, dtype: object","Ticker
+AAPL    0.328598
+dtype: object"
+"Ticker
+    2025-04-17 15:18:00+00:00
+Name: 95, dtype: object",AAPL,"Ticker
+AAPL    196.748596
+Name: 94, dtype: object","Ticker
+AAPL    196.890198
+Name: 95, dtype: object","Ticker
+AAPL    0.141602
+dtype: object"
+"Ticker
+    2025-04-17 15:19:00+00:00
+Name: 96, dtype: object",AAPL,"Ticker
+AAPL    196.890198
+Name: 95, dtype: object","Ticker
+AAPL    196.949997
+Name: 96, dtype: object","Ticker
+AAPL    0.059799
+dtype: object"
+"Ticker
+    2025-04-17 15:23:00+00:00
+Name: 100, dtype: object",AAPL,"Ticker
+AAPL    196.460007
+Name: 99, dtype: object","Ticker
+AAPL    196.600006
+Name: 100, dtype: object","Ticker
+AAPL    0.139999
+dtype: object"
+"Ticker
+    2025-04-17 15:24:00+00:00
+Name: 101, dtype: object",AAPL,"Ticker
+AAPL    196.600006
+Name: 100, dtype: object","Ticker
+AAPL    196.660004
+Name: 101, dtype: object","Ticker
+AAPL    0.059998
+dtype: object"
+"Ticker
+    2025-04-17 15:30:00+00:00
+Name: 107, dtype: object",AAPL,"Ticker
+AAPL    196.039993
+Name: 106, dtype: object","Ticker
+AAPL    196.339996
+Name: 107, dtype: object","Ticker
+AAPL    0.300003
+dtype: object"
+"Ticker
+    2025-04-17 15:31:00+00:00
+Name: 108, dtype: object",AAPL,"Ticker
+AAPL    196.339996
+Name: 107, dtype: object","Ticker
+AAPL    196.617401
+Name: 108, dtype: object","Ticker
+AAPL    0.277405
+dtype: object"
+"Ticker
+    2025-04-17 15:32:00+00:00
+Name: 109, dtype: object",AAPL,"Ticker
+AAPL    196.617401
+Name: 108, dtype: object","Ticker
+AAPL    196.647202
+Name: 109, dtype: object","Ticker
+AAPL    0.0298
+dtype: object"
+"Ticker
+    2025-04-17 15:37:00+00:00
+Name: 114, dtype: object",AAPL,"Ticker
+AAPL    196.300003
+Name: 113, dtype: object","Ticker
+AAPL    196.919998
+Name: 114, dtype: object","Ticker
+AAPL    0.619995
+dtype: object"
+"Ticker
+    2025-04-17 15:39:00+00:00
+Name: 116, dtype: object",AAPL,"Ticker
+AAPL    196.477203
+Name: 115, dtype: object","Ticker
+AAPL    196.735001
+Name: 116, dtype: object","Ticker
+AAPL    0.257797
+dtype: object"
+"Ticker
+    2025-04-17 15:40:00+00:00
+Name: 117, dtype: object",AAPL,"Ticker
+AAPL    196.735001
+Name: 116, dtype: object","Ticker
+AAPL    196.751404
+Name: 117, dtype: object","Ticker
+AAPL    0.016403
+dtype: object"
+"Ticker
+    2025-04-17 15:43:00+00:00
+Name: 120, dtype: object",AAPL,"Ticker
+AAPL    196.309998
+Name: 119, dtype: object","Ticker
+AAPL    196.389999
+Name: 120, dtype: object","Ticker
+AAPL    0.080002
+dtype: object"
+"Ticker
+    2025-04-17 15:46:00+00:00
+Name: 123, dtype: object",AAPL,"Ticker
+AAPL    196.169998
+Name: 122, dtype: object","Ticker
+AAPL    196.320007
+Name: 123, dtype: object","Ticker
+AAPL    0.150009
+dtype: object"
+"Ticker
+    2025-04-17 15:47:00+00:00
+Name: 124, dtype: object",AAPL,"Ticker
+AAPL    196.320007
+Name: 123, dtype: object","Ticker
+AAPL    196.399994
+Name: 124, dtype: object","Ticker
+AAPL    0.079987
+dtype: object"
+"Ticker
+    2025-04-17 15:48:00+00:00
+Name: 125, dtype: object",AAPL,"Ticker
+AAPL    196.399994
+Name: 124, dtype: object","Ticker
+AAPL    196.5
+Name: 125, dtype: object","Ticker
+AAPL    0.100006
+dtype: object"
+"Ticker
+    2025-04-17 15:51:00+00:00
+Name: 128, dtype: object",AAPL,"Ticker
+AAPL    196.070007
+Name: 127, dtype: object","Ticker
+AAPL    196.687607
+Name: 128, dtype: object","Ticker
+AAPL    0.617599
+dtype: object"
+"Ticker
+    2025-04-17 15:54:00+00:00
+Name: 131, dtype: object",AAPL,"Ticker
+AAPL    196.160004
+Name: 130, dtype: object","Ticker
+AAPL    196.214996
+Name: 131, dtype: object","Ticker
+AAPL    0.054993
+dtype: object"
+"Ticker
+    2025-04-17 15:55:00+00:00
+Name: 132, dtype: object",AAPL,"Ticker
+AAPL    196.214996
+Name: 131, dtype: object","Ticker
+AAPL    196.580002
+Name: 132, dtype: object","Ticker
+AAPL    0.365005
+dtype: object"
+"Ticker
+    2025-04-17 16:00:00+00:00
+Name: 137, dtype: object",AAPL,"Ticker
+AAPL    196.110001
+Name: 136, dtype: object","Ticker
+AAPL    196.399994
+Name: 137, dtype: object","Ticker
+AAPL    0.289993
+dtype: object"
+"Ticker
+    2025-04-17 16:01:00+00:00
+Name: 138, dtype: object",AAPL,"Ticker
+AAPL    196.399994
+Name: 137, dtype: object","Ticker
+AAPL    196.520004
+Name: 138, dtype: object","Ticker
+AAPL    0.12001
+dtype: object"
+"Ticker
+    2025-04-17 16:03:00+00:00
+Name: 140, dtype: object",AAPL,"Ticker
+AAPL    196.5
+Name: 139, dtype: object","Ticker
+AAPL    196.559998
+Name: 140, dtype: object","Ticker
+AAPL    0.059998
+dtype: object"
+"Ticker
+    2025-04-17 16:05:00+00:00
+Name: 142, dtype: object",AAPL,"Ticker
+AAPL    196.333405
+Name: 141, dtype: object","Ticker
+AAPL    196.979996
+Name: 142, dtype: object","Ticker
+AAPL    0.646591
+dtype: object"
+"Ticker
+    2025-04-17 16:07:00+00:00
+Name: 144, dtype: object",AAPL,"Ticker
+AAPL    196.863495
+Name: 143, dtype: object","Ticker
+AAPL    197.384995
+Name: 144, dtype: object","Ticker
+AAPL    0.5215
+dtype: object"
+"Ticker
+    2025-04-17 16:08:00+00:00
+Name: 145, dtype: object",AAPL,"Ticker
+AAPL    197.384995
+Name: 144, dtype: object","Ticker
+AAPL    197.690002
+Name: 145, dtype: object","Ticker
+AAPL    0.305008
+dtype: object"
+"Ticker
+    2025-04-17 16:11:00+00:00
+Name: 148, dtype: object",AAPL,"Ticker
+AAPL    197.259995
+Name: 147, dtype: object","Ticker
+AAPL    197.425003
+Name: 148, dtype: object","Ticker
+AAPL    0.165009
+dtype: object"
+"Ticker
+    2025-04-17 16:13:00+00:00
+Name: 150, dtype: object",AAPL,"Ticker
+AAPL    196.830002
+Name: 149, dtype: object","Ticker
+AAPL    197.037506
+Name: 150, dtype: object","Ticker
+AAPL    0.207504
+dtype: object"
+"Ticker
+    2025-04-17 16:14:00+00:00
+Name: 151, dtype: object",AAPL,"Ticker
+AAPL    197.037506
+Name: 150, dtype: object","Ticker
+AAPL    197.589996
+Name: 151, dtype: object","Ticker
+AAPL    0.55249
+dtype: object"
+"Ticker
+    2025-04-17 16:16:00+00:00
+Name: 153, dtype: object",AAPL,"Ticker
+AAPL    197.445007
+Name: 152, dtype: object","Ticker
+AAPL    197.759995
+Name: 153, dtype: object","Ticker
+AAPL    0.314987
+dtype: object"
+"Ticker
+    2025-04-17 16:18:00+00:00
+Name: 155, dtype: object",AAPL,"Ticker
+AAPL    197.445007
+Name: 154, dtype: object","Ticker
+AAPL    197.470001
+Name: 155, dtype: object","Ticker
+AAPL    0.024994
+dtype: object"
+"Ticker
+    2025-04-17 16:19:00+00:00
+Name: 156, dtype: object",AAPL,"Ticker
+AAPL    197.470001
+Name: 155, dtype: object","Ticker
+AAPL    197.910004
+Name: 156, dtype: object","Ticker
+AAPL    0.440002
+dtype: object"
+"Ticker
+    2025-04-17 16:21:00+00:00
+Name: 158, dtype: object",AAPL,"Ticker
+AAPL    197.619995
+Name: 157, dtype: object","Ticker
+AAPL    197.830399
+Name: 158, dtype: object","Ticker
+AAPL    0.210403
+dtype: object"
+"Ticker
+    2025-04-17 16:23:00+00:00
+Name: 160, dtype: object",AAPL,"Ticker
+AAPL    197.639999
+Name: 159, dtype: object","Ticker
+AAPL    197.839996
+Name: 160, dtype: object","Ticker
+AAPL    0.199997
+dtype: object"
+"Ticker
+    2025-04-17 16:25:00+00:00
+Name: 162, dtype: object",AAPL,"Ticker
+AAPL    197.789993
+Name: 161, dtype: object","Ticker
+AAPL    197.824005
+Name: 162, dtype: object","Ticker
+AAPL    0.034012
+dtype: object"
+"Ticker
+    2025-04-17 16:28:00+00:00
+Name: 165, dtype: object",AAPL,"Ticker
+AAPL    197.670105
+Name: 164, dtype: object","Ticker
+AAPL    197.774994
+Name: 165, dtype: object","Ticker
+AAPL    0.104889
+dtype: object"
+"Ticker
+    2025-04-17 16:29:00+00:00
+Name: 166, dtype: object",AAPL,"Ticker
+AAPL    197.774994
+Name: 165, dtype: object","Ticker
+AAPL    197.804993
+Name: 166, dtype: object","Ticker
+AAPL    0.029999
+dtype: object"
+"Ticker
+    2025-04-17 16:31:00+00:00
+Name: 168, dtype: object",AAPL,"Ticker
+AAPL    197.660004
+Name: 167, dtype: object","Ticker
+AAPL    197.880005
+Name: 168, dtype: object","Ticker
+AAPL    0.220001
+dtype: object"
+"Ticker
+    2025-04-17 16:33:00+00:00
+Name: 170, dtype: object",AAPL,"Ticker
+AAPL    197.664993
+Name: 169, dtype: object","Ticker
+AAPL    198.050003
+Name: 170, dtype: object","Ticker
+AAPL    0.38501
+dtype: object"
+"Ticker
+    2025-04-17 16:34:00+00:00
+Name: 171, dtype: object",AAPL,"Ticker
+AAPL    198.050003
+Name: 170, dtype: object","Ticker
+AAPL    198.054703
+Name: 171, dtype: object","Ticker
+AAPL    0.0047
+dtype: object"
+"Ticker
+    2025-04-17 16:35:00+00:00
+Name: 172, dtype: object",AAPL,"Ticker
+AAPL    198.054703
+Name: 171, dtype: object","Ticker
+AAPL    198.195007
+Name: 172, dtype: object","Ticker
+AAPL    0.140305
+dtype: object"
+"Ticker
+    2025-04-17 16:38:00+00:00
+Name: 175, dtype: object",AAPL,"Ticker
+AAPL    197.865005
+Name: 174, dtype: object","Ticker
+AAPL    197.899994
+Name: 175, dtype: object","Ticker
+AAPL    0.034988
+dtype: object"
+"Ticker
+    2025-04-17 16:40:00+00:00
+Name: 177, dtype: object",AAPL,"Ticker
+AAPL    197.779999
+Name: 176, dtype: object","Ticker
+AAPL    197.826599
+Name: 177, dtype: object","Ticker
+AAPL    0.0466
+dtype: object"
+"Ticker
+    2025-04-17 16:41:00+00:00
+Name: 178, dtype: object",AAPL,"Ticker
+AAPL    197.826599
+Name: 177, dtype: object","Ticker
+AAPL    197.839996
+Name: 178, dtype: object","Ticker
+AAPL    0.013397
+dtype: object"
+"Ticker
+    2025-04-17 16:46:00+00:00
+Name: 183, dtype: object",AAPL,"Ticker
+AAPL    197.205505
+Name: 182, dtype: object","Ticker
+AAPL    197.669998
+Name: 183, dtype: object","Ticker
+AAPL    0.464493
+dtype: object"
+"Ticker
+    2025-04-17 16:49:00+00:00
+Name: 186, dtype: object",AAPL,"Ticker
+AAPL    197.449997
+Name: 185, dtype: object","Ticker
+AAPL    197.729996
+Name: 186, dtype: object","Ticker
+AAPL    0.279999
+dtype: object"
+"Ticker
+    2025-04-17 16:50:00+00:00
+Name: 187, dtype: object",AAPL,"Ticker
+AAPL    197.729996
+Name: 186, dtype: object","Ticker
+AAPL    198.035294
+Name: 187, dtype: object","Ticker
+AAPL    0.305298
+dtype: object"
+"Ticker
+    2025-04-17 16:52:00+00:00
+Name: 189, dtype: object",AAPL,"Ticker
+AAPL    197.887604
+Name: 188, dtype: object","Ticker
+AAPL    198.301498
+Name: 189, dtype: object","Ticker
+AAPL    0.413895
+dtype: object"
+"Ticker
+    2025-04-17 16:55:00+00:00
+Name: 192, dtype: object",AAPL,"Ticker
+AAPL    198.235001
+Name: 191, dtype: object","Ticker
+AAPL    198.324997
+Name: 192, dtype: object","Ticker
+AAPL    0.089996
+dtype: object"
+"Ticker
+    2025-04-17 16:56:00+00:00
+Name: 193, dtype: object",AAPL,"Ticker
+AAPL    198.324997
+Name: 192, dtype: object","Ticker
+AAPL    198.369995
+Name: 193, dtype: object","Ticker
+AAPL    0.044998
+dtype: object"
+"Ticker
+    2025-04-17 16:58:00+00:00
+Name: 195, dtype: object",AAPL,"Ticker
+AAPL    198.214996
+Name: 194, dtype: object","Ticker
+AAPL    198.345001
+Name: 195, dtype: object","Ticker
+AAPL    0.130005
+dtype: object"
+"Ticker
+    2025-04-17 17:00:00+00:00
+Name: 197, dtype: object",AAPL,"Ticker
+AAPL    198.169998
+Name: 196, dtype: object","Ticker
+AAPL    198.25
+Name: 197, dtype: object","Ticker
+AAPL    0.080002
+dtype: object"
+"Ticker
+    2025-04-17 17:01:00+00:00
+Name: 198, dtype: object",AAPL,"Ticker
+AAPL    198.25
+Name: 197, dtype: object","Ticker
+AAPL    198.309998
+Name: 198, dtype: object","Ticker
+AAPL    0.059998
+dtype: object"
+"Ticker
+    2025-04-17 17:07:00+00:00
+Name: 204, dtype: object",AAPL,"Ticker
+AAPL    197.649994
+Name: 203, dtype: object","Ticker
+AAPL    197.809998
+Name: 204, dtype: object","Ticker
+AAPL    0.160004
+dtype: object"
+"Ticker
+    2025-04-17 17:08:00+00:00
+Name: 205, dtype: object",AAPL,"Ticker
+AAPL    197.809998
+Name: 204, dtype: object","Ticker
+AAPL    197.899994
+Name: 205, dtype: object","Ticker
+AAPL    0.089996
+dtype: object"
+"Ticker
+    2025-04-17 17:13:00+00:00
+Name: 210, dtype: object",AAPL,"Ticker
+AAPL    197.360001
+Name: 209, dtype: object","Ticker
+AAPL    197.485001
+Name: 210, dtype: object","Ticker
+AAPL    0.125
+dtype: object"
+"Ticker
+    2025-04-17 17:15:00+00:00
+Name: 212, dtype: object",AAPL,"Ticker
+AAPL    197.315002
+Name: 211, dtype: object","Ticker
+AAPL    197.399994
+Name: 212, dtype: object","Ticker
+AAPL    0.084991
+dtype: object"
+"Ticker
+    2025-04-17 17:21:00+00:00
+Name: 218, dtype: object",AAPL,"Ticker
+AAPL    196.869995
+Name: 217, dtype: object","Ticker
+AAPL    196.872696
+Name: 218, dtype: object","Ticker
+AAPL    0.002701
+dtype: object"
+"Ticker
+    2025-04-17 17:24:00+00:00
+Name: 221, dtype: object",AAPL,"Ticker
+AAPL    196.774994
+Name: 220, dtype: object","Ticker
+AAPL    196.824997
+Name: 221, dtype: object","Ticker
+AAPL    0.050003
+dtype: object"
+"Ticker
+    2025-04-17 17:25:00+00:00
+Name: 222, dtype: object",AAPL,"Ticker
+AAPL    196.824997
+Name: 221, dtype: object","Ticker
+AAPL    196.997498
+Name: 222, dtype: object","Ticker
+AAPL    0.172501
+dtype: object"
+"Ticker
+    2025-04-17 17:27:00+00:00
+Name: 224, dtype: object",AAPL,"Ticker
+AAPL    196.770004
+Name: 223, dtype: object","Ticker
+AAPL    197.007797
+Name: 224, dtype: object","Ticker
+AAPL    0.237793
+dtype: object"
+"Ticker
+    2025-04-17 17:30:00+00:00
+Name: 227, dtype: object",AAPL,"Ticker
+AAPL    196.699997
+Name: 226, dtype: object","Ticker
+AAPL    196.770004
+Name: 227, dtype: object","Ticker
+AAPL    0.070007
+dtype: object"
+"Ticker
+    2025-04-17 17:31:00+00:00
+Name: 228, dtype: object",AAPL,"Ticker
+AAPL    196.770004
+Name: 227, dtype: object","Ticker
+AAPL    197.0
+Name: 228, dtype: object","Ticker
+AAPL    0.229996
+dtype: object"
+"Ticker
+    2025-04-17 17:32:00+00:00
+Name: 229, dtype: object",AAPL,"Ticker
+AAPL    197.0
+Name: 228, dtype: object","Ticker
+AAPL    197.050003
+Name: 229, dtype: object","Ticker
+AAPL    0.050003
+dtype: object"
+"Ticker
+    2025-04-17 17:33:00+00:00
+Name: 230, dtype: object",AAPL,"Ticker
+AAPL    197.050003
+Name: 229, dtype: object","Ticker
+AAPL    197.214996
+Name: 230, dtype: object","Ticker
+AAPL    0.164993
+dtype: object"
+"Ticker
+    2025-04-17 17:34:00+00:00
+Name: 231, dtype: object",AAPL,"Ticker
+AAPL    197.214996
+Name: 230, dtype: object","Ticker
+AAPL    197.270004
+Name: 231, dtype: object","Ticker
+AAPL    0.055008
+dtype: object"
+"Ticker
+    2025-04-17 17:36:00+00:00
+Name: 233, dtype: object",AAPL,"Ticker
+AAPL    197.160004
+Name: 232, dtype: object","Ticker
+AAPL    197.399994
+Name: 233, dtype: object","Ticker
+AAPL    0.23999
+dtype: object"
+"Ticker
+    2025-04-17 17:38:00+00:00
+Name: 235, dtype: object",AAPL,"Ticker
+AAPL    197.289993
+Name: 234, dtype: object","Ticker
+AAPL    197.440002
+Name: 235, dtype: object","Ticker
+AAPL    0.150009
+dtype: object"
+"Ticker
+    2025-04-17 17:39:00+00:00
+Name: 236, dtype: object",AAPL,"Ticker
+AAPL    197.440002
+Name: 235, dtype: object","Ticker
+AAPL    197.630005
+Name: 236, dtype: object","Ticker
+AAPL    0.190002
+dtype: object"
+"Ticker
+    2025-04-17 17:43:00+00:00
+Name: 240, dtype: object",AAPL,"Ticker
+AAPL    197.100006
+Name: 239, dtype: object","Ticker
+AAPL    197.240005
+Name: 240, dtype: object","Ticker
+AAPL    0.139999
+dtype: object"
+"Ticker
+    2025-04-17 17:44:00+00:00
+Name: 241, dtype: object",AAPL,"Ticker
+AAPL    197.240005
+Name: 240, dtype: object","Ticker
+AAPL    197.380005
+Name: 241, dtype: object","Ticker
+AAPL    0.139999
+dtype: object"
+"Ticker
+    2025-04-17 17:45:00+00:00
+Name: 242, dtype: object",AAPL,"Ticker
+AAPL    197.380005
+Name: 241, dtype: object","Ticker
+AAPL    197.450104
+Name: 242, dtype: object","Ticker
+AAPL    0.070099
+dtype: object"
+"Ticker
+    2025-04-17 17:46:00+00:00
+Name: 243, dtype: object",AAPL,"Ticker
+AAPL    197.450104
+Name: 242, dtype: object","Ticker
+AAPL    197.834106
+Name: 243, dtype: object","Ticker
+AAPL    0.384003
+dtype: object"
+"Ticker
+    2025-04-17 17:47:00+00:00
+Name: 244, dtype: object",AAPL,"Ticker
+AAPL    197.834106
+Name: 243, dtype: object","Ticker
+AAPL    198.050003
+Name: 244, dtype: object","Ticker
+AAPL    0.215897
+dtype: object"
+"Ticker
+    2025-04-17 17:50:00+00:00
+Name: 247, dtype: object",AAPL,"Ticker
+AAPL    197.759995
+Name: 246, dtype: object","Ticker
+AAPL    197.800003
+Name: 247, dtype: object","Ticker
+AAPL    0.040009
+dtype: object"
+"Ticker
+    2025-04-17 17:51:00+00:00
+Name: 248, dtype: object",AAPL,"Ticker
+AAPL    197.800003
+Name: 247, dtype: object","Ticker
+AAPL    197.969604
+Name: 248, dtype: object","Ticker
+AAPL    0.169601
+dtype: object"
+"Ticker
+    2025-04-17 17:52:00+00:00
+Name: 249, dtype: object",AAPL,"Ticker
+AAPL    197.969604
+Name: 248, dtype: object","Ticker
+AAPL    198.119995
+Name: 249, dtype: object","Ticker
+AAPL    0.150391
+dtype: object"
+"Ticker
+    2025-04-17 17:53:00+00:00
+Name: 250, dtype: object",AAPL,"Ticker
+AAPL    198.119995
+Name: 249, dtype: object","Ticker
+AAPL    198.179993
+Name: 250, dtype: object","Ticker
+AAPL    0.059998
+dtype: object"
+"Ticker
+    2025-04-17 17:55:00+00:00
+Name: 252, dtype: object",AAPL,"Ticker
+AAPL    198.054993
+Name: 251, dtype: object","Ticker
+AAPL    198.170105
+Name: 252, dtype: object","Ticker
+AAPL    0.115112
+dtype: object"
+"Ticker
+    2025-04-17 17:58:00+00:00
+Name: 255, dtype: object",AAPL,"Ticker
+AAPL    197.860107
+Name: 254, dtype: object","Ticker
+AAPL    197.865005
+Name: 255, dtype: object","Ticker
+AAPL    0.004898
+dtype: object"
+"Ticker
+    2025-04-17 18:00:00+00:00
+Name: 257, dtype: object",AAPL,"Ticker
+AAPL    197.809998
+Name: 256, dtype: object","Ticker
+AAPL    197.829895
+Name: 257, dtype: object","Ticker
+AAPL    0.019897
+dtype: object"
+"Ticker
+    2025-04-17 18:01:00+00:00
+Name: 258, dtype: object",AAPL,"Ticker
+AAPL    197.829895
+Name: 257, dtype: object","Ticker
+AAPL    197.960098
+Name: 258, dtype: object","Ticker
+AAPL    0.130203
+dtype: object"
+"Ticker
+    2025-04-17 18:02:00+00:00
+Name: 259, dtype: object",AAPL,"Ticker
+AAPL    197.960098
+Name: 258, dtype: object","Ticker
+AAPL    198.0
+Name: 259, dtype: object","Ticker
+AAPL    0.039902
+dtype: object"
+"Ticker
+    2025-04-17 18:04:00+00:00
+Name: 261, dtype: object",AAPL,"Ticker
+AAPL    197.950302
+Name: 260, dtype: object","Ticker
+AAPL    198.369995
+Name: 261, dtype: object","Ticker
+AAPL    0.419693
+dtype: object"
+"Ticker
+    2025-04-17 18:06:00+00:00
+Name: 263, dtype: object",AAPL,"Ticker
+AAPL    198.320007
+Name: 262, dtype: object","Ticker
+AAPL    198.360001
+Name: 263, dtype: object","Ticker
+AAPL    0.039993
+dtype: object"
+"Ticker
+    2025-04-17 18:08:00+00:00
+Name: 265, dtype: object",AAPL,"Ticker
+AAPL    198.330002
+Name: 264, dtype: object","Ticker
+AAPL    198.529999
+Name: 265, dtype: object","Ticker
+AAPL    0.199997
+dtype: object"
+"Ticker
+    2025-04-17 18:10:00+00:00
+Name: 267, dtype: object",AAPL,"Ticker
+AAPL    198.479996
+Name: 266, dtype: object","Ticker
+AAPL    198.679993
+Name: 267, dtype: object","Ticker
+AAPL    0.199997
+dtype: object"
+"Ticker
+    2025-04-17 18:17:00+00:00
+Name: 274, dtype: object",AAPL,"Ticker
+AAPL    198.029999
+Name: 273, dtype: object","Ticker
+AAPL    198.410004
+Name: 274, dtype: object","Ticker
+AAPL    0.380005
+dtype: object"
+"Ticker
+    2025-04-17 18:19:00+00:00
+Name: 276, dtype: object",AAPL,"Ticker
+AAPL    198.354996
+Name: 275, dtype: object","Ticker
+AAPL    198.503204
+Name: 276, dtype: object","Ticker
+AAPL    0.148209
+dtype: object"
+"Ticker
+    2025-04-17 18:20:00+00:00
+Name: 277, dtype: object",AAPL,"Ticker
+AAPL    198.503204
+Name: 276, dtype: object","Ticker
+AAPL    198.583298
+Name: 277, dtype: object","Ticker
+AAPL    0.080093
+dtype: object"
+"Ticker
+    2025-04-17 18:24:00+00:00
+Name: 281, dtype: object",AAPL,"Ticker
+AAPL    198.509995
+Name: 280, dtype: object","Ticker
+AAPL    198.529999
+Name: 281, dtype: object","Ticker
+AAPL    0.020004
+dtype: object"
+"Ticker
+    2025-04-17 18:28:00+00:00
+Name: 285, dtype: object",AAPL,"Ticker
+AAPL    198.399994
+Name: 284, dtype: object","Ticker
+AAPL    198.425003
+Name: 285, dtype: object","Ticker
+AAPL    0.025009
+dtype: object"
+"Ticker
+    2025-04-17 18:30:00+00:00
+Name: 287, dtype: object",AAPL,"Ticker
+AAPL    198.279999
+Name: 286, dtype: object","Ticker
+AAPL    198.375
+Name: 287, dtype: object","Ticker
+AAPL    0.095001
+dtype: object"
+"Ticker
+    2025-04-17 18:31:00+00:00
+Name: 288, dtype: object",AAPL,"Ticker
+AAPL    198.375
+Name: 287, dtype: object","Ticker
+AAPL    198.600006
+Name: 288, dtype: object","Ticker
+AAPL    0.225006
+dtype: object"
+"Ticker
+    2025-04-17 18:32:00+00:00
+Name: 289, dtype: object",AAPL,"Ticker
+AAPL    198.600006
+Name: 288, dtype: object","Ticker
+AAPL    198.619995
+Name: 289, dtype: object","Ticker
+AAPL    0.019989
+dtype: object"
+"Ticker
+    2025-04-17 18:35:00+00:00
+Name: 292, dtype: object",AAPL,"Ticker
+AAPL    198.410004
+Name: 291, dtype: object","Ticker
+AAPL    198.439804
+Name: 292, dtype: object","Ticker
+AAPL    0.0298
+dtype: object"
+"Ticker
+    2025-04-17 18:37:00+00:00
+Name: 294, dtype: object",AAPL,"Ticker
+AAPL    198.240005
+Name: 293, dtype: object","Ticker
+AAPL    198.330002
+Name: 294, dtype: object","Ticker
+AAPL    0.089996
+dtype: object"
+"Ticker
+    2025-04-17 18:38:00+00:00
+Name: 295, dtype: object",AAPL,"Ticker
+AAPL    198.330002
+Name: 294, dtype: object","Ticker
+AAPL    198.470001
+Name: 295, dtype: object","Ticker
+AAPL    0.139999
+dtype: object"
+"Ticker
+    2025-04-17 18:39:00+00:00
+Name: 296, dtype: object",AAPL,"Ticker
+AAPL    198.470001
+Name: 295, dtype: object","Ticker
+AAPL    198.5
+Name: 296, dtype: object","Ticker
+AAPL    0.029999
+dtype: object"
+"Ticker
+    2025-04-17 18:41:00+00:00
+Name: 298, dtype: object",AAPL,"Ticker
+AAPL    198.309998
+Name: 297, dtype: object","Ticker
+AAPL    198.380096
+Name: 298, dtype: object","Ticker
+AAPL    0.070099
+dtype: object"
+"Ticker
+    2025-04-17 18:43:00+00:00
+Name: 300, dtype: object",AAPL,"Ticker
+AAPL    198.304993
+Name: 299, dtype: object","Ticker
+AAPL    198.417694
+Name: 300, dtype: object","Ticker
+AAPL    0.112701
+dtype: object"
+"Ticker
+    2025-04-17 18:45:00+00:00
+Name: 302, dtype: object",AAPL,"Ticker
+AAPL    198.350006
+Name: 301, dtype: object","Ticker
+AAPL    198.449997
+Name: 302, dtype: object","Ticker
+AAPL    0.099991
+dtype: object"
+"Ticker
+    2025-04-17 18:48:00+00:00
+Name: 305, dtype: object",AAPL,"Ticker
+AAPL    198.030502
+Name: 304, dtype: object","Ticker
+AAPL    198.190002
+Name: 305, dtype: object","Ticker
+AAPL    0.1595
+dtype: object"
+"Ticker
+    2025-04-17 18:49:00+00:00
+Name: 306, dtype: object",AAPL,"Ticker
+AAPL    198.190002
+Name: 305, dtype: object","Ticker
+AAPL    197.884995
+Name: 306, dtype: object","Ticker
+AAPL   -0.305008
+dtype: object"
+"Ticker
+    2025-04-17 18:52:00+00:00
+Name: 309, dtype: object",AAPL,"Ticker
+AAPL    197.830002
+Name: 308, dtype: object","Ticker
+AAPL    198.085007
+Name: 309, dtype: object","Ticker
+AAPL    0.255005
+dtype: object"
+"Ticker
+    2025-04-17 18:54:00+00:00
+Name: 311, dtype: object",AAPL,"Ticker
+AAPL    198.169998
+Name: 310, dtype: object","Ticker
+AAPL    197.949997
+Name: 311, dtype: object","Ticker
+AAPL   -0.220001
+dtype: object"
+"Ticker
+    2025-04-17 18:57:00+00:00
+Name: 314, dtype: object",AAPL,"Ticker
+AAPL    197.729996
+Name: 313, dtype: object","Ticker
+AAPL    197.744995
+Name: 314, dtype: object","Ticker
+AAPL    0.014999
+dtype: object"
+"Ticker
+    2025-04-17 18:59:00+00:00
+Name: 316, dtype: object",AAPL,"Ticker
+AAPL    197.619995
+Name: 315, dtype: object","Ticker
+AAPL    197.395004
+Name: 316, dtype: object","Ticker
+AAPL   -0.224991
+dtype: object"
+"Ticker
+    2025-04-17 19:05:00+00:00
+Name: 322, dtype: object",AAPL,"Ticker
+AAPL    197.449997
+Name: 321, dtype: object","Ticker
+AAPL    197.323395
+Name: 322, dtype: object","Ticker
+AAPL   -0.126602
+dtype: object"
+"Ticker
+    2025-04-17 19:15:00+00:00
+Name: 332, dtype: object",AAPL,"Ticker
+AAPL    197.089996
+Name: 331, dtype: object","Ticker
+AAPL    197.089996
+Name: 332, dtype: object","Ticker
+AAPL    0.0
+dtype: object"
+"Ticker
+    2025-04-17 19:17:00+00:00
+Name: 334, dtype: object",AAPL,"Ticker
+AAPL    196.869995
+Name: 333, dtype: object","Ticker
+AAPL    197.110001
+Name: 334, dtype: object","Ticker
+AAPL    0.240005
+dtype: object"
+"Ticker
+    2025-04-17 19:18:00+00:00
+Name: 335, dtype: object",AAPL,"Ticker
+AAPL    197.110001
+Name: 334, dtype: object","Ticker
+AAPL    197.130005
+Name: 335, dtype: object","Ticker
+AAPL    0.020004
+dtype: object"
+"Ticker
+    2025-04-17 19:20:00+00:00
+Name: 337, dtype: object",AAPL,"Ticker
+AAPL    197.286301
+Name: 336, dtype: object","Ticker
+AAPL    197.059998
+Name: 337, dtype: object","Ticker
+AAPL   -0.226303
+dtype: object"
+"Ticker
+    2025-04-17 19:21:00+00:00
+Name: 338, dtype: object",AAPL,"Ticker
+AAPL    197.059998
+Name: 337, dtype: object","Ticker
+AAPL    196.949997
+Name: 338, dtype: object","Ticker
+AAPL   -0.110001
+dtype: object"
+"Ticker
+    2025-04-17 19:23:00+00:00
+Name: 340, dtype: object",AAPL,"Ticker
+AAPL    197.190002
+Name: 339, dtype: object","Ticker
+AAPL    197.569397
+Name: 340, dtype: object","Ticker
+AAPL    0.379395
+dtype: object"
+"Ticker
+    2025-04-17 19:24:00+00:00
+Name: 341, dtype: object",AAPL,"Ticker
+AAPL    197.569397
+Name: 340, dtype: object","Ticker
+AAPL    197.520004
+Name: 341, dtype: object","Ticker
+AAPL   -0.049393
+dtype: object"
+"Ticker
+    2025-04-17 19:25:00+00:00
+Name: 342, dtype: object",AAPL,"Ticker
+AAPL    197.520004
+Name: 341, dtype: object","Ticker
+AAPL    197.490005
+Name: 342, dtype: object","Ticker
+AAPL   -0.029999
+dtype: object"
+"Ticker
+    2025-04-17 19:27:00+00:00
+Name: 344, dtype: object",AAPL,"Ticker
+AAPL    197.660004
+Name: 343, dtype: object","Ticker
+AAPL    197.735001
+Name: 344, dtype: object","Ticker
+AAPL    0.074997
+dtype: object"
+"Ticker
+    2025-04-17 19:28:00+00:00
+Name: 345, dtype: object",AAPL,"Ticker
+AAPL    197.735001
+Name: 344, dtype: object","Ticker
+AAPL    197.470001
+Name: 345, dtype: object","Ticker
+AAPL   -0.264999
+dtype: object"
+"Ticker
+    2025-04-17 19:29:00+00:00
+Name: 346, dtype: object",AAPL,"Ticker
+AAPL    197.470001
+Name: 345, dtype: object","Ticker
+AAPL    197.242203
+Name: 346, dtype: object","Ticker
+AAPL   -0.227798
+dtype: object"
+"Ticker
+    2025-04-17 19:30:00+00:00
+Name: 347, dtype: object",AAPL,"Ticker
+AAPL    197.242203
+Name: 346, dtype: object","Ticker
+AAPL    197.230103
+Name: 347, dtype: object","Ticker
+AAPL   -0.0121
+dtype: object"
+"Ticker
+    2025-04-17 19:31:00+00:00
+Name: 348, dtype: object",AAPL,"Ticker
+AAPL    197.230103
+Name: 347, dtype: object","Ticker
+AAPL    197.595001
+Name: 348, dtype: object","Ticker
+AAPL    0.364899
+dtype: object"
+"Ticker
+    2025-04-17 19:33:00+00:00
+Name: 350, dtype: object",AAPL,"Ticker
+AAPL    197.378906
+Name: 349, dtype: object","Ticker
+AAPL    197.449997
+Name: 350, dtype: object","Ticker
+AAPL    0.071091
+dtype: object"
+"Ticker
+    2025-04-17 19:34:00+00:00
+Name: 351, dtype: object",AAPL,"Ticker
+AAPL    197.449997
+Name: 350, dtype: object","Ticker
+AAPL    197.520004
+Name: 351, dtype: object","Ticker
+AAPL    0.070007
+dtype: object"
+"Ticker
+    2025-04-17 19:38:00+00:00
+Name: 355, dtype: object",AAPL,"Ticker
+AAPL    197.210007
+Name: 354, dtype: object","Ticker
+AAPL    197.240005
+Name: 355, dtype: object","Ticker
+AAPL    0.029999
+dtype: object"
+"Ticker
+    2025-04-17 19:40:00+00:00
+Name: 357, dtype: object",AAPL,"Ticker
+AAPL    197.330002
+Name: 356, dtype: object","Ticker
+AAPL    197.075195
+Name: 357, dtype: object","Ticker
+AAPL   -0.254807
+dtype: object"
+"Ticker
+    2025-04-17 19:41:00+00:00
+Name: 358, dtype: object",AAPL,"Ticker
+AAPL    197.075195
+Name: 357, dtype: object","Ticker
+AAPL    197.190002
+Name: 358, dtype: object","Ticker
+AAPL    0.114807
+dtype: object"
+"Ticker
+    2025-04-17 19:43:00+00:00
+Name: 360, dtype: object",AAPL,"Ticker
+AAPL    197.470001
+Name: 359, dtype: object","Ticker
+AAPL    197.320007
+Name: 360, dtype: object","Ticker
+AAPL   -0.149994
+dtype: object"
+"Ticker
+    2025-04-17 19:44:00+00:00
+Name: 361, dtype: object",AAPL,"Ticker
+AAPL    197.320007
+Name: 360, dtype: object","Ticker
+AAPL    197.273697
+Name: 361, dtype: object","Ticker
+AAPL   -0.04631
+dtype: object"
+"Ticker
+    2025-04-17 19:45:00+00:00
+Name: 362, dtype: object",AAPL,"Ticker
+AAPL    197.273697
+Name: 361, dtype: object","Ticker
+AAPL    197.059998
+Name: 362, dtype: object","Ticker
+AAPL   -0.213699
+dtype: object"
+"Ticker
+    2025-04-17 19:46:00+00:00
+Name: 363, dtype: object",AAPL,"Ticker
+AAPL    197.059998
+Name: 362, dtype: object","Ticker
+AAPL    196.960007
+Name: 363, dtype: object","Ticker
+AAPL   -0.099991
+dtype: object"
+"Ticker
+    2025-04-17 19:49:00+00:00
+Name: 366, dtype: object",AAPL,"Ticker
+AAPL    196.660004
+Name: 365, dtype: object","Ticker
+AAPL    196.5
+Name: 366, dtype: object","Ticker
+AAPL   -0.160004
+dtype: object"
+"Ticker
+    2025-04-17 19:50:00+00:00
+Name: 367, dtype: object",AAPL,"Ticker
+AAPL    196.5
+Name: 366, dtype: object","Ticker
+AAPL    196.062698
+Name: 367, dtype: object","Ticker
+AAPL   -0.437302
+dtype: object"
+"Ticker
+    2025-04-17 19:51:00+00:00
+Name: 368, dtype: object",AAPL,"Ticker
+AAPL    196.062698
+Name: 367, dtype: object","Ticker
+AAPL    196.199997
+Name: 368, dtype: object","Ticker
+AAPL    0.137299
+dtype: object"
+"Ticker
+    2025-04-17 19:52:00+00:00
+Name: 369, dtype: object",AAPL,"Ticker
+AAPL    196.199997
+Name: 368, dtype: object","Ticker
+AAPL    196.330002
+Name: 369, dtype: object","Ticker
+AAPL    0.130005
+dtype: object"
+"Ticker
+    2025-04-17 19:53:00+00:00
+Name: 370, dtype: object",AAPL,"Ticker
+AAPL    196.330002
+Name: 369, dtype: object","Ticker
+AAPL    196.419998
+Name: 370, dtype: object","Ticker
+AAPL    0.089996
+dtype: object"
